@@ -1,1 +1,1 @@
-# Hafta-13
+# Hafta-13 - Python ile User-Agent Spoofing İşlemi
